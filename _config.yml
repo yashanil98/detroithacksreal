@@ -26,8 +26,8 @@ org_instagram_username: AMCC_nhs
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
 #If your organization is fiscally sponsored, enter true below and add your sponsor's name. Otherwise enter false.
-fiscal_sponsor: false
-fiscal_sponsor_name: false
+fiscal_sponsor: true
+fiscal_sponsor_name: Hack Club Bank
 #If your organization is currently registered as a 501(c)3 organization, enter true below. Otherwise enter false. Enter false if you have a fiscal sponsor.
 is_501c3: true
 
