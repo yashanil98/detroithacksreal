@@ -1,11 +1,8 @@
 ---
-# Do not remove the triple dashes
+# scss file
 ---
 @charset "utf-8";
 
-//
-// Set color scheme
-//
 
 {% if site.color_scheme == "one" %}
   $color: #17baef;
