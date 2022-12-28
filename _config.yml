@@ -1,6 +1,6 @@
 
 org_name: Detroit Hacks 2023
-org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
+org_summary: >
   At Detroit Hacks, you’ll be able to give & attend workshops from peers, gain experience, make connections, and discover yourself. You’ll meet new people, get help from peers, and support your fellow hackers.
 
 org_general_email_inbox: yashanil@detroithacks.org
@@ -8,9 +8,9 @@ org_street_address: 24062 Taft Rd
 org_address_suite: Novi High School
 org_city: Novi
 org_state: MI
-org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
+org_zip: > 
   48375
-org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
+org_phone: > 
   (248) 832-2407
 #SOCIAL MEDIA
 org_twitter_username: N/A
