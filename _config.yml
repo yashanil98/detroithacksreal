@@ -2,6 +2,8 @@
 org_name: Detroit Hacks 2023
 org_summary: >
   Detroit Hacks is an event that takes place over two days(Feb 18/19), from 12:30 to 4:30pm each day. It is held at the Novi Public Library in Detroit, and is an opportunity for attendees to attend workshops, gain experience, make connections, and discover more about themselves. The event will feature algorithm-based challenges, various programming levels, and collaboration. It is a great opportunity for those interested in programming and technology to learn and grow their skills.
+org_full_description: > 
+  DetroitHacks is a non-profit organization that was created by students for students. The president of the organization is Yash Anil. This hackathon is the second one that they have organized. It is a great opportunity for students to learn and grow their skills in technology and programming.
 
 org_general_email_inbox: yashanil@detroithacks.org
 org_street_address: 24062 Taft Rd
@@ -23,7 +25,7 @@ fiscal_sponsor_name: Hack Club Bank
 
 is_501c3: true
 
-donorbox_campaign_name:
+donorbox_campaign_name: DetroitHacks Hackathon
 tinyletter_username:
 
 #SEARCH ENGINES
